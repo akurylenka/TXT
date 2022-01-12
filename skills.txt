@@ -1,0 +1,2 @@
+courses:Vadim Ksendzov
+skills: JSON, XML, API testing, Postman, Fidler, VPN, Mobile testing, XCode, Charles, SQL, Git, Jmeter, Scrum, Bug reports

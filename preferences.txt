@@ -1,0 +1,6 @@
+
+[Afavorite movie:Dirty Dancing,
+favorite TV show:The Good Doctor,
+favorite food:pasta,
+favorite season:spring,
+country you would like to visit:Iceland
