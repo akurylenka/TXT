@@ -1,1 +1,14 @@
-
+    Summary:No Sign in button on the Sign in to your account page
+    Description:
+      Steps to reproduce:
+      1. Navigate to the Test site
+      2. Enter email, password"
+      3. Find Sign in button"
+     Actual result: No Sign in button on the Sign in to your account page
+     Expected result:Sign in button is displayed on the Sign in to your account page"
+    Attachments: pic.png
+    Priority: High
+    Severity: Blocker
+    Status: To do
+    Author: akurylenka
+    Assigned_To: developer_name
