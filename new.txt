@@ -1,0 +1,6 @@
+first name: Alesia,
+last name:Kurylenka,
+patronymic:Alexandrovna,
+age:27,
+pets:no,
+future salary:$2000
